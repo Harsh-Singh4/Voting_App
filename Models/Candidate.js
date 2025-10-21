@@ -5,7 +5,7 @@ name:{
     type:String,
     required:true
 },
-part:{
+party:{
     type:String,
     required:true
 },
